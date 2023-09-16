@@ -17,6 +17,7 @@
 
 실습문제 2-4
 ![화면 캡처 2023-09-16 202424](https://github.com/ks2019575010/webprograming/assets/48661594/f6522445-d949-4f6e-8b69-2af72127002c)
+
 ![화면 캡처 2023-09-16 202446](https://github.com/ks2019575010/webprograming/assets/48661594/9625731c-12a5-40e7-a9f7-f38fab558290)
 
 실습문제 2-5
