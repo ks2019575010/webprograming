@@ -16,12 +16,14 @@
 ![화면 캡처 2023-09-16 202405](https://github.com/ks2019575010/webprograming/assets/48661594/794c41ab-2b7b-4cdf-9531-40de65e6ae5c)
 
 실습문제 2-4
-![화면 캡처 2023-09-16 202424](https://github.com/ks2019575010/webprograming/assets/48661594/f6522445-d949-4f6e-8b69-2af72127002c)
 
-![화면 캡처 2023-09-16 202446](https://github.com/ks2019575010/webprograming/assets/48661594/9625731c-12a5-40e7-a9f7-f38fab558290)
+![화면 캡처 2023-09-16 202424](https://github.com/ks2019575010/webprograming/assets/48661594/8e1475c5-9367-4b16-bb23-84260b89c948)
+
+![화면 캡처 2023-09-16 202446](https://github.com/ks2019575010/webprograming/assets/48661594/29654369-1c88-46bd-9704-ff8e791efa85)
 
 실습문제 2-5
-![화면 캡처 2023-09-16 202551](https://github.com/ks2019575010/webprograming/assets/48661594/7b87278e-f57f-417a-8e89-1c08eb95b1e4)
+
+![화면 캡처 2023-09-16 202551](https://github.com/ks2019575010/webprograming/assets/48661594/9a31c398-9cfc-45c5-a48f-a5c70b951717)
 
 실습문제 2-6
 ![화면 캡처 2023-09-16 202622](https://github.com/ks2019575010/webprograming/assets/48661594/6d9e63c7-5b24-400c-b7ad-e880b23f322d)
@@ -30,4 +32,5 @@
 ![화면 캡처 2023-09-16 202649](https://github.com/ks2019575010/webprograming/assets/48661594/4994f627-2b44-4214-b37f-687cfaa3befc)
 
 실습문제 2-8
-![화면 캡처 2023-09-16 202724](https://github.com/ks2019575010/webprograming/assets/48661594/66ff230c-30ac-4cee-8aec-ecd79b7fb4ee)
+
+![화면 캡처 2023-09-16 202724](https://github.com/ks2019575010/webprograming/assets/48661594/e8542ca1-a5ff-423f-9689-064fc80c2e5d)
