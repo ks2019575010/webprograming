@@ -34,3 +34,11 @@
 실습문제 2-8
 
 ![화면 캡처 2023-09-16 202724](https://github.com/ks2019575010/webprograming/assets/48661594/e8542ca1-a5ff-423f-9689-064fc80c2e5d)
+
+<img width="1280" alt="화면 캡처 2023-09-25 124749" src="https://github.com/ks2019575010/webprograming/assets/48661594/466bdd43-c799-434c-a12b-d782390996b4">
+
+<img width="1280" alt="화면 캡처 2023-09-25 124826" src="https://github.com/ks2019575010/webprograming/assets/48661594/7b4df24b-7926-408a-b428-a36d9ac37549">
+
+<img width="1280" alt="화면 캡처 2023-09-25 124856" src="https://github.com/ks2019575010/webprograming/assets/48661594/f840dfac-c42e-4241-bfd0-6db0f94d992c">
+
+
