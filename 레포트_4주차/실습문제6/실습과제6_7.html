@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>큰자리수와 낮은자리수 같은지 비교</title>
+</head>
+<body>
+    <h3>큰 자리 작은 자리 비교</h3>
+    <hr>
+    <script>
+        let number = prompt("숫자입력");
+        let same = parseInt(number);
+        let last = same%10;
+        
+        let first = 0;
+        while(same!=0){
+            first=same%10;
+            same=Math.floor(same/10);//?
+        }
+
+        first = parseInt(first);
+        
+
+        if(first==last){
+            document.write(number+": 같음");
+        }
+        else{
+            document.write(number+": 다름");
+        }
+
+    </script>
+    
+</body>
+</html>

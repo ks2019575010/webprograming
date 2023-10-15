@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>월화수목금토일</title>
+</head>
+<body>
+    <script>
+        function workday(){
+        let day = prompt("월화수목금토일 중에서 입력하세요");
+
+        switch(day){
+            case "월":
+            case "화":
+            case "수":
+            case "목":
+                document.write(day+"은(는) 출근");
+                break;
+            case "금":
+            case "토":
+            case "일":
+                document.write(day+"은(는) 휴일");
+                break;
+            default:
+                let error = confirm("입력오류, 다시입력해 주세요");
+                if(error = true){
+                    workday();
+                }
+                else{
+                    window.close();//자바 스크립트로 연창만 닫을 수 있다.
+                } 
+                break;
+        }
+    }
+
+    workday();
+
+        //String은 switch문으로 해야하는듯 
+        /* equal이 안되는듯
+        if(work.equal=="월"||work.equal=="화"||work.equal=="수"||work.equal=="목"){
+            document.write(work+"은 출근")
+        }
+        else if(work.equal=="금"||work.equal=="토"||work.equal=="일"){
+            document.write(work+"은 휴일")
+        }
+        */
+    </script>
+</body>
+</html>

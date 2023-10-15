@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>book 객체 배열 만들기</title>
+</head>
+<body>
+    <h3>book 객체 배열 만들기</h3>
+    <hr>
+    <script>
+        
+        let bookArray = new Array();
+
+        for(let i = 0;i<5;i++){
+            let x = prompt("콤마(,)로 분리하면서 책제목 저자 가격 순으로 입력");
+            let y = x.split(",");
+
+            let book = new Object();
+            book.title = y[0];
+            book.author = y[1];
+            book.price = y[2];
+            bookArray[i] = book;
+        }
+        
+        let Max = parseInt(bookArray[0].price);
+
+        for(let i = 1;i<5;i++){
+            if(parseInt(bookArray[i].price)>Max)
+            {
+                Max = parseInt(bookArray[i].price);
+                let tmp = bookArray[i];
+                bookArray[i] = bookArray[0];
+                bookArray[0] = tmp;
+            }
+        }
+
+        for(let i = 0;i<5;i++){
+            document.write(bookArray[i].title+","+bookArray[i].author+","+bookArray[i].price+"<br>");
+        }
+        
+        document.write("<hr>");
+        document.write("가장 가격이 비싼 책은 "+bookArray[0].title);
+    </script>
+</body>
+</html>
+<!--for문으로 하나는 연속 5번 prompt를 받는것과 하나는 받은 prompt를 나눠서 가장 큰 값찾기-->

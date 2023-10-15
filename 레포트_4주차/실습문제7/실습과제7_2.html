@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>정수 5개를 입력받아 역순으로 출력</title>
+</head>
+<body>
+    <h3>정수 5개를 입력받아 역순으로 출력</h3>
+    <hr>
+    <script>
+        let n=[];
+
+        document.write("입력된 수의 배열");
+        document.write("<br>");
+        for(let i=0; i<5; i++) { 
+	    let x = prompt("정수입력");
+	    n[i] = x;
+        document.write(n[i]+" ");
+        }
+        document.write("<hr>");
+        
+        document.write("역순으로 재정렬된 배열\n");//왠지 \n이 안먹는다.
+        document.write("<br>");
+        for(let i=4; i>=0; i--){
+        document.write(n[i]+" ");
+        }
+    </script>
+
+    
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        div{display:inline-block;
+            width: 60px;
+            padding: 10px;}
+    </style>
+    <title>17개의 css2 색이름과 색</title>
+</head>
+<body>
+    <h3>17개의 css2 색이름과 색</h3>
+    <hr>
+    <script>
+        let colorNames = [ "maroon", "red", "orange", "yellow", "olive",
+              		"purple", "fuchsia", "white", "lime", "green",
+              		"navy", "blue", "aqua", "teal", "black", "silver", "gray"];
+
+        for(let i = 0 ; i<colorNames.length;i++){
+            let code = "<div style='background-color:";
+            code = code + colorNames[i]+"'>";//'을 왜 하나 찍나? 'background-color: color'라서
+            code = code + colorNames[i]+"</div>";
+            document.write(code);
+        }
+    </script>
+    
+</body>
+</html>
