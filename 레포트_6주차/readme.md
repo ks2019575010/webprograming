@@ -1,3 +1,5 @@
+http://tmdzm.dothome.co.kr/problem1.php <--주소
+
 1. 동적 웹페이지와 정적 웹페이지의 차이를 설명하시오.
    
    동적 웹페이지
