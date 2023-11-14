@@ -9,7 +9,8 @@ OpenChallenge 249p
 
 실습 3-1
 
-<img width="730" alt="화면 캡처 2023-09-25 124927" src="https://github.com/ks2019575010/webprograming/assets/48661594/c759a63e-300d-4624-85ca-2e6674944066">
+![스크린샷(1)](https://github.com/ks2019575010/webprograming/assets/48661594/a15c80e9-a21e-4984-8122-6cb4cb3a2d42)
+
 
 실습 3-2
 
