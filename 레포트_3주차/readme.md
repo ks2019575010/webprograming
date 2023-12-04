@@ -26,6 +26,9 @@ OpenChallenge 249p
 
 실습 3-5
 
+<img width="716" alt="화면 캡처 2023-09-25 125040" src="https://github.com/ks2019575010/webprograming/assets/48661594/083ae4fc-1dce-4dbb-bbbf-7b360dadcab4">
+
+실습 3-6
 <img width="411" alt="화면 캡처 2023-09-25 125924" src="https://github.com/ks2019575010/webprograming/assets/48661594/41b577c6-716c-44e8-a712-6a8fd8f0dc49">
 
 
@@ -65,5 +68,5 @@ OpenChallenge 249p
 <img width="449" alt="화면 캡처 2023-09-25 125055" src="https://github.com/ks2019575010/webprograming/assets/48661594/10fc977a-4d26-4892-81b0-ea5d81f3bd01">
 
 
-<img width="716" alt="화면 캡처 2023-09-25 125040" src="https://github.com/ks2019575010/webprograming/assets/48661594/083ae4fc-1dce-4dbb-bbbf-7b360dadcab4">
+
 
