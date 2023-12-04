@@ -54,13 +54,40 @@ OpenChallenge 249p
 
 실습 4_2
 
+![스크린샷(688)](https://github.com/ks2019575010/webprograming/assets/48661594/c7b3cb68-3114-42ad-873a-5015d16e2fe0)
+
 실습 4_3
+
+![스크린샷(689)](https://github.com/ks2019575010/webprograming/assets/48661594/ed31d23b-0781-46ea-b675-feb078b05919)
+
 실습 4_4-1 
+
+![스크린샷(690)](https://github.com/ks2019575010/webprograming/assets/48661594/759a9448-ace1-4e8b-8e2f-1d43f4475ef9)
+
 실습 4_4-2
+
+![스크린샷(691)](https://github.com/ks2019575010/webprograming/assets/48661594/a45db360-7197-4b45-b826-6fa480b6afcb)
+
 실습 4_5
+![스크린샷(692)](https://github.com/ks2019575010/webprograming/assets/48661594/54a39a98-a093-470f-9945-0e66d9a6d212)
+
 실습 4_6-1 
+![스크린샷(693)](https://github.com/ks2019575010/webprograming/assets/48661594/668577e3-3eb4-43c0-90f1-bb7ee321b6e8)
+
 실습 4_6-2
+![스크린샷(694)](https://github.com/ks2019575010/webprograming/assets/48661594/25c5ba5c-7ba0-482c-babb-d300f726531a)
+
 실습 4_7
+![스크린샷(695)](https://github.com/ks2019575010/webprograming/assets/48661594/414f8bae-0759-4ce0-8eae-849217e3995c)
+
 실습 4_8
+
+![스크린샷(697)](https://github.com/ks2019575010/webprograming/assets/48661594/e502ab66-cb71-4a4b-888e-5b10bf223251)
+
 실습 4_9
+
+![스크린샷(696)](https://github.com/ks2019575010/webprograming/assets/48661594/97a16617-6858-4df5-9a3c-3e7ebd11ff5c)
+
 실습 4_10
+
+![스크린샷(698)](https://github.com/ks2019575010/webprograming/assets/48661594/0a8a76b8-95b8-4e23-9485-cd8d7eb824dc)
