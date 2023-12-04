@@ -1,4 +1,4 @@
-![스크린샷(743)](https://github.com/ks2019575010/webprograming/assets/48661594/13584469-709d-4afb-8050-4257f44e43c9)오픈챌린지 380p
+오픈챌린지 380p
 ![스크린샷(729)](https://github.com/ks2019575010/webprograming/assets/48661594/a4d33392-b743-4fa3-8a55-37b67d090d3f)
 
 오픈챌린지 430p
