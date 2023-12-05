@@ -17,14 +17,21 @@ header('location: admin/home.php'); // 세션을 이용해 페이지를 바꾸�
 
 
 <?php
+
 session_start();
 
+
 // 데이터베이스에 연결
+
 $db = mysqli_connect('localhost', 'tmdzm', 'Popo121!', 'tmdzm');//host,MySQL이름,비밀번호,데이터베이스이름을 넣어야 한다.
 
+
 // 변수 선언
+
 $username = "";
+
 $email    = "";
+
 $errors   = array();
 
 // register_btn이 클릭되면 register() 함수 호출
@@ -39,27 +46,43 @@ function register()
     global $db, $errors, $username, $email;
 
     // 폼(즉,페이지내)에서 모든 입력 값을 받음. 값을 이스케이프하기 위해 아래에 정의된 e() 함수 호출
+    
     $username    =  e($_POST['username']);
+    
     $email       =  e($_POST['email']);
+    
     $password_1  =  e($_POST['password_1']);
+    
     $password_2  =  e($_POST['password_2']);
 
     // 폼 유효성 검사: 폼이 올바르게 채워져 있는지 확인
+    
     if (empty($username)) {
+    
         array_push($errors, "사용자명이 필요합니다");
+        
     }
+    
     if (empty($email)) {
+    
         array_push($errors, "이메일이 필요합니다");
+        
     }
+    
     if (empty($password_1)) {
+    
         array_push($errors, "비밀번호가 필요합니다");
+        
     }
+    
     if ($password_1 != $password_2) {
+    
         array_push($errors, "두 비밀번호가 일치하지 않습니다");
     }
-
+    
     // 폼에 오류가 없다면 사용자 등록
     if (count($errors) == 0) {
+    
         $password = md5($password_1); // 데이터베이스에 저장하기 전에 비밀번호를 암호화
 
         if (isset($_POST['user_type'])) {
