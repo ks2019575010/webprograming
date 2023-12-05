@@ -5,6 +5,12 @@ id 123, pw abc
 
 ![스크린샷(679)](https://github.com/ks2019575010/webprograming/assets/48661594/140a4553-c4ad-4675-93ee-d0afbb6e9c2e)
 
+dothome(호스팅 사이트) 설명
+애니시큐어 주식회사에서 운영중인 웹사이트 호스팅 사이트. 도메인, 웹 호스팅, 리눅스 호스팅, 웹 메일 등을 제공한다.
+아이디당 2개까지 무료 호스팅이 가능하며 , 무료 호스팅은 6개월 단위로 연장만 해주면 반영구적으로 사용가능하다.
+DB가 무제한이다.
+
+
 function 주석
 
 폼: HTML 에서 사용자가 입력한 데이터. 주로 사용자가 등록 또는 로그인 폼에서 입력한 값들
@@ -18,27 +24,19 @@ header('location: admin/home.php'); // 세션을 이용해 페이지를 바꾸�
 
 <?php
 
-
 session_start();
-
 
 // 데이터베이스에 연결
 
-
 $db = mysqli_connect('localhost', 'tmdzm', 'Popo121!', 'tmdzm');//host,MySQL이름,비밀번호,데이터베이스이름을 넣어야 한다.
-
 
 // 변수 선언
 
-
 $username = "";
-
 
 $email    = "";
 
-
 $errors   = array();
-
 
 // register_btn이 클릭되면 register() 함수 호출
 
