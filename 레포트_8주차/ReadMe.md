@@ -334,8 +334,8 @@ function isAdmin()
     } else {
     
         return false;
-```
+
     }
     
 }
-
+```
