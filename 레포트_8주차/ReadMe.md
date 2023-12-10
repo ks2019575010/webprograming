@@ -21,7 +21,7 @@ $_SESSION['user'] = $logged_in_user;
 $_SESSION['success']  = "로그인되었습니다";
 header('location: admin/home.php'); // 세션을 이용해 페이지를 바꾸는 코드
 
-
+```
 <?php
 
 session_start();
@@ -334,6 +334,7 @@ function isAdmin()
     } else {
     
         return false;
+```
     }
     
 }
